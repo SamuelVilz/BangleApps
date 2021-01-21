@@ -2604,5 +2604,44 @@
     {"name":"lifeclk.app.js","url":"app.js"},
     {"name":"lifeclk.img","url":"app-icon.js","evaluate":true}
   ]
+},
+{ "id": "advtimeclock",
+  "name": "Adventure Time Themed Watch",
+  "shortName":"AT Watch",
+  "icon": "app.png",
+  "version":"0.02",
+  "description": "Modification and (arguably) improvement of analogimgclk",
+  "tags": "clock",
+  "type" : "clock",
+  "storage": [
+    {"name":"advtimeclock.app.js","url":"app.js"},
+    {"name":"advtimeclock.img","url":"app-icon.js","evaluate":true}
+  ]
+},
+{ "id": "owner",
+  "name": "Owner App",
+  "shortName":"Owner",
+  "icon": "app.png",
+  "version":"0.01",
+  "description": "App that does nothing but show a nice message to the person finding the Watch and being like \"Whose is this even\"",
+  "tags": "tool",
+  "type" : "app",
+  "storage": [
+    {"name":"owner.app.js","url":"app.js"},
+    {"name":"owner.img","url":"app-icon.js","evaluate":true}
+  ]
+},
+{ "id": "notefinder",
+  "name": "Notefinder App",
+  "shortName":"Notefinder",
+  "icon": "app.png",
+  "version":"0.01",
+  "description": "App that goes beep and shows what note it's beeping.",
+  "tags": "tool",
+  "type" : "app",
+  "storage": [
+    {"name":"notefinder.app.js","url":"app.js"},
+    {"name":"notefinder.img","url":"app-icon.js","evaluate":true}
+  ]
 }
 ]
