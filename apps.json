@@ -2610,7 +2610,7 @@
   "name": "Adventure Time Themed Watch",
   "shortName":"AT Watch",
   "icon": "app.png",
-  "version":"0.02",
+  "version":"0.03",
   "description": "Modification and (arguably) improvement of analogimgclk",
   "tags": "clock",
   "type" : "clock",

@@ -1,2 +1,3 @@
 0.01: New App! 2021-01-05
 0.02: Removed "clearRect" after finding out about the problems "transparent" caused. Also, the icon looks good now hopefully. 2021-01-14
+0.03: Changed app.png and app-icon.js 2021-01-21
